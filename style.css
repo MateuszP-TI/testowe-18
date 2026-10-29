@@ -1,0 +1,21 @@
+.kontener {
+    width: 80%;
+
+}
+.wydarzenie {
+    width: 360px;
+    height: auto;
+    background-color: aliceblue;
+    padding: 18px;
+    margin: 2px;
+}
+.wydarzenie img {
+    width: 100%;
+    height: auto;
+}
+.wydarzenie a {
+    width: 160px;
+    height: 40px;
+    text-align: center;
+    background-color: antiquewhite
+}
